@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\2DCoordinate\Debug\2DCoordinate.exe
+H:\CourseHero\C++\2DCoordinate\Debug\2DCoordinate.exe
